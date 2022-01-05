@@ -94,3 +94,4 @@ mynum = [1,2,3,4,5]
 print(mynum)
 mynum.clear()
 print(mynum)
+
