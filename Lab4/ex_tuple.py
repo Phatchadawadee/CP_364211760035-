@@ -49,7 +49,14 @@ print(mylist)
 # remove data in list
 mylist.remove('apple')
 print(mylist)
-# list -- > delete 
+# list --> tuple
+mytuple = tuple(mylist)
+print(mytuple)
+# del keyword  -- > delete completely
+del mytuple
+#print(mytuple)  # error
+
+
 
 
 
