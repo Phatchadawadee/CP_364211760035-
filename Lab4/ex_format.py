@@ -13,4 +13,3 @@ fname = 'phatchadawadee'
 lname = 'sariphat'
 
 print(f'My name is {fname} {lname}')
-
