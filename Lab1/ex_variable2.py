@@ -1,19 +1,22 @@
-# Globle variable
+# Global variable
 
 x = 'MIT'
 print(x)
 
 
 def myfunc():
-      # local varoable
-      x = 'RUTS'
-      print(x)
+    # local variable
+    x = 'RUTS'
+    print(x)
+
 
 def myfunc2():
-      global x
-      x = 'Saiyai'
-      print(x)
+    global x
+    x = 'Saiyai'
+    print(x)
 
-# call myfunc()
+# call function
 myfunc2()
 print(x)
+
+_x1 = 100

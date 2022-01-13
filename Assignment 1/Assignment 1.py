@@ -39,3 +39,4 @@ print(f'z = {z}')
 z = x//y
 # แสดงผลค่าตัวแปร z formatted print  -- > print(f{...})
 print(f'z = {z}')
+

@@ -18,7 +18,8 @@ print('sub of x and y  is ', x - y)
 z = x - y
 print(z, type(z))
 print('multiply of x and y is ', x * y)
-print('divide of x and y is ', x / y)  # 100/200 = 0.5
+print('divide of x and y is ', x / y)  # 100/200 = 0.5 --> float
+print('modulus of x and y is ', x % y)
 print('floor division of x and y ', x // y)  # int
 z = x // y
 print(z, type(z))
