@@ -1,5 +1,5 @@
 """
-Name: [Phatchdawadee  sariphat]
+Name: [Phatchdawadee  Sariphat]
 SID: [364211760035]
 Group: [MIT212]
 """
