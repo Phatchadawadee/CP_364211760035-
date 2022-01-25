@@ -16,5 +16,6 @@ print(x)
 print(y)
 y[1] = 'Nattapong'
 y[2] = 'Kaewboonma'
-print("After changing")
-
+print("After changing data in y :")
+print(x)
+print(y)
