@@ -2,7 +2,7 @@
 
 car1 ={'brand':'Toyota','model':'Altis','price':800000}
 car2 ={'brand':'Honda','model':'Civic','color':'Blue'}
-car3 ={'brand':'M','model':'Altis','price':800000}
+car3 ={'brand':'Mazda','model':'Mazda 3'}
 
 mycar = {'car1':car1,
          'car2':car2,
