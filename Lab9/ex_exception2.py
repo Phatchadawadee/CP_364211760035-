@@ -23,5 +23,3 @@ except TypeError as e:
 
 print(f'The number that you entered is: {num}')
 
-
-
