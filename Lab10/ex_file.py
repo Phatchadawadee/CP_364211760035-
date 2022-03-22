@@ -9,7 +9,7 @@ x - create file with empty content
 """
 try:
     f = open("demofile.txt",'a')
-    f.write("\nThungsong")
+    f.write("\nPhatchadawadee")
 except Exception as e:
     print(e)
 else:
