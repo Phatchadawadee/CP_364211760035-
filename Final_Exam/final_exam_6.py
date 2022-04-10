@@ -21,7 +21,6 @@ e = 7
 I = 11
 o = 11
 u = 1 
-
 """
 while(True):
     phrase = input('Input message: ')
